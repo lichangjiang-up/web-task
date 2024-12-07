@@ -1,0 +1,26 @@
+.gradation-btn,
+.bg-banner .navbar-sticky a.nav-link {
+    color: #FFFFFFBB;
+}
+
+.bg-banner .navbar-sticky a.nav-link {
+    padding: 1.2rem .15rem !important;
+    margin: 0 0.4rem;
+    font-weight: 500;
+    font-size: large;
+}
+
+.bg-banner .navbar-sticky a.nav-link:focus {
+    color: #FFFFFFDD;
+}
+
+.bg-banner .navbar-sticky a.nav-link.active {
+    border-bottom: 2px solid white;
+    color: #FFFFFFDD;
+}
+
+.gradation-btn:hover,
+.bg-banner .navbar-sticky a.nav-link.active:hover,
+.bg-banner .navbar-sticky a.nav-link:hover {
+    color: white;
+}

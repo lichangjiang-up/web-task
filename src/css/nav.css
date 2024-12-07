@@ -1,0 +1,20 @@
+.nav-btn {
+    display: flex;
+    align-items: center;
+    color: white;
+    border: none;
+    padding: .6rem 1.2rem;
+    border-radius: .4rem;
+}
+
+.bg-orange {
+    background-color: #E08531;
+}
+
+.bg-dark-gray {
+    background-color: #3B3A60;
+}
+
+.task-16-log{
+    height: 5rem;
+}
